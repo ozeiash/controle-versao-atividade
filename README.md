@@ -1,5 +1,5 @@
 # controle-versao-atividade
-Projto para praticar os conceitos fundamentais de versionamento de código utilizando Git e GitHub, simulando um fluxo de trabalho com branches, commits e merges.
+Projeto para praticar os conceitos fundamentais de versionamento de código utilizando Git e GitHub, simulando um fluxo de trabalho com branches, commits e merges.
 ## Funcionalidades:
 - master – Representa a versão estável do projeto, como se estivesse em produção.
 - Representa o código em desenvolvimento, onde todas as funcionalidades são integradas antes de irem para produção.
